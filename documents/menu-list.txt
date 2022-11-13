@@ -1,0 +1,64 @@
+Drink Menu
+
+Iced Coffee:
+
+1) Iced Americano
+
+2) Iced Cappuccino
+
+3) Iced Espresso
+
+4) Iced Latte
+
+5) Lemonade Iced Coffee
+
+Hot Coffee:
+
+1) Hot Americano
+
+2) Hot Cappuccino
+
+3) Hot Espresso
+
+4)Hot Latte
+
+5) Hot Caramel Mocha
+
+Fruit Shake:
+
+1) Berry Lemonade Splash Regular
+
+2) Strawberry Shake
+
+3) Mango Smoothie
+
+4) Green Apple Chiller
+
+5) Green Pear Smoothie
+
+Special Menu
+
+Burger:
+
+1) Aloo Tikki Burger
+
+2) Spicy Paneer Burger
+
+3)Veg Maharaja Burger
+
+4) Grilled Chicken & Cheese Burger
+
+5)Chicken Maharaja Burger
+
+Pizza:
+
+1) Creamy Tomato Pasta Pizza
+
+2) Peppy Paneer
+
+3) Tandoori Paneer
+
+4) Pepper Barbecue Chicken 
+
+5) Chicken Golden Delight
+
