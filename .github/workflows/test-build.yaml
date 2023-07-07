@@ -1,0 +1,25 @@
+name: test-build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Unit-Test:
+    runs-on: self-hosted
+    steps:
+    - run: echo "Unit test completed successfully"
+  App-Build:
+    runs-on: self-hosted
+    needs: Unit-Test
+    steps:
+    - run: echo "Application Build completed successfully"
+  Docker-Build:
+    runs-on: self-hosted
+    needs: App-Build
+    steps:
+    - run: echo "Docker Build completed successfully"
+  Development:
+    runs-on: self-hosted
+    needs: Docker-Build
+    steps:
+    - run: echo "Application deployed successfully"
