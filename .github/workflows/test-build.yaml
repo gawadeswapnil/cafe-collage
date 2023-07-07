@@ -12,6 +12,7 @@ jobs:
     runs-on: self-hosted
     needs: Unit-Test
     steps:
+    - uses: actions/checkout@v3
     - run: echo "Application Build completed successfully"
   Docker-Build:
     runs-on: self-hosted
